@@ -1,4 +1,4 @@
-# ingrid_test
+# Ingrid and Mack Collaboration Test
 test repo for git/github CoreR lesson
 
 # Purpose

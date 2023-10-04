@@ -1,4 +1,4 @@
-# ingrid_test
+# ingrid_test...ing to see if we can resolving merge conflicts
 test repo for git/github CoreR lesson
 
 # Purpose

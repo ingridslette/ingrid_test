@@ -9,3 +9,5 @@ test repo for git/github CoreR lesson
 - Ingrid Slette
 - Postdoc at NCEAS
 - contact email [ingrid.slette@gmail.com](mailto:ingrid.slette@gmail.com)
+
+# Mack is collaboratin' now 
